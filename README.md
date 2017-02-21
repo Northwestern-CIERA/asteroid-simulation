@@ -1,0 +1,1 @@
+This project is a collaboration of Drew Bronson and Aaron Geller for the Center for Interdisciplenary Exploration and Research in Astrophysics (CIERA) at Northwestern University.
